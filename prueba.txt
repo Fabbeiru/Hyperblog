@@ -2,4 +2,4 @@ Esta es una prueba del uso de git.
 
 Git es un sistema de control de versiones.
 
-Probemos a hacer nuevos cambios.
+Probemos a hacer mas cambios.
